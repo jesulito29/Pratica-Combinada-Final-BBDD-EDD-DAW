@@ -1,0 +1,6 @@
+tienda
+clientes
+id, nombre, direccion
+19, Juan, Cantabria
+20, Mario, Paris
+21, Manolo, Pizarra
