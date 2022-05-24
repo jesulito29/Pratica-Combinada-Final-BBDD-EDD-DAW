@@ -1,0 +1,5 @@
+tienda
+clientes
+id, nombre, direccion
+22, Pepe, Milan
+23, Bartolome, Londres
