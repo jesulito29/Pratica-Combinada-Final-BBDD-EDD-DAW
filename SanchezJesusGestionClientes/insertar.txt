@@ -1,0 +1,5 @@
+tienda
+clientes
+id, nombre, direccion
+22, Armando, Torremolinos
+23, Alejandro, Fuengirola

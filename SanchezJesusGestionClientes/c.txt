@@ -1,0 +1,6 @@
+tienda
+producto
+codigo, nombre, precio, codigo_fabricante
+12, Disco duro, 20, 4
+13, Mesa, 50, 3
+14, TV, 65.25, 6
