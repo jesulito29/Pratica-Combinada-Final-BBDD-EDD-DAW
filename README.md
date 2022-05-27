@@ -1,1 +1,5 @@
 # Pratica-Combinada-Final-BBDD-EDD-DAW
+En la versión 4.0 he creado métodos para volcar en un fichero una tabla de una base de datos. El contenido del fichero contendrá en la primera línea el nombre de la base de datos y el de la tabla, en la siguiente las cabeceras de los campos y los siguientes los campos de cada registro por línea. También he implementado un método para leer un fichero que contendrá una estructura para insertar datos en la tabla de la base de datos. Los métodos son los siguientes:
+-He realizado un método volcarTablaFichero que volcara en un fichero una tabla pasado como parámetro. Con este método podremos volcar cualquier tabla de cualquiera base de datos en un fichero.
+-He realizado un método insertarDatosDesdeFichero que insertara datos desde un fichero pasado como parámetro a una tabla de una base de datos. Con este método podremos insertar cualquier datos en una tabla de de cualquiera base de datos.
+-He realizado un método leerDatosFichero que leerá y guardara los datos desde un fichero pasado como parámetro. Este método será invocado en los métodos de insertar, modificar y borrar desde un fichero para que devuelva los datos del fichero.
