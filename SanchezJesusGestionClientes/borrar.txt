@@ -1,0 +1,4 @@
+tienda
+clientes
+id
+21, 22, 23
